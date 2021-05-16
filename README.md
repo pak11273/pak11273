@@ -6,7 +6,7 @@
   <img src="https://pak11273.com/static/media/SELF.fabdce18.svg" width="20%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full Stack Web Developer who is likes building things on the world wide web :wink:
+I am a Full Stack Web Developer and I build stuff on the world wide web :wink:
  
 
  🌱 I’m currently learning new technology like AWS, Amplify, Golang, and WebRTC.
